@@ -1,7 +1,7 @@
 # 🌿 LookBook
 > *Un nuovo modo di dare vita ai vestiti dimenticati*
 
-![LookBook Logo]((https://raw.githubusercontent.com/FrancoDeGiorgio/Gestore_elementi_GSE_Python_Franco_De_Giorgio/49d7c9e3b07d8d0822a76feea3c9f863ebda6242/Logo%20Ecologico%20LookBook.png)))
+![LookBook Logo](https://raw.githubusercontent.com/FrancoDeGiorgio/Gestore_elementi_GSE_Python_Franco_De_Giorgio/49d7c9e3b07d8d0822a76feea3c9f863ebda6242/Logo%20Ecologico%20LookBook.png)
 
 ## 💡 Da dove nasce l'idea
 
