@@ -150,3 +150,13 @@ Realizzare un'applicazione Python (su Jupyter Notebook) per gestire un catalogo 
    - Visualizza carrello
 3. **Esecuzione** della funzione scelta
 4. **Tornare** al menu principale o uscire
+
+---
+
+## 👨‍💻 Autore:
+
+## ***Franco De Giorgio***  
+
+📅 **Data di completamento:** Giugno 2025
+
+---
